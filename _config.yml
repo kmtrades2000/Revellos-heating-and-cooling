@@ -1,0 +1,5 @@
+title: "Ravelos Heating & Cooling"
+description: "EPA Certified Heating, Cooling & Plumbing Services - Elizabeth, NJ"
+url: "https://your-domain.com"
+markdown: "kramdown"
+exclude: [".gitignore", "README.md"]
